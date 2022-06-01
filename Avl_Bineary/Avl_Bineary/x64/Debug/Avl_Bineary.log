@@ -1,0 +1,21 @@
+﻿  Avl_Bineary.cpp
+E:\Academic_University\Datastructure\GIT\Class_Proj\Avl_Bineary\Avl_Bineary\Avl_Bineary.cpp(1626,19): warning C4101: 'kk': unreferenced local variable
+E:\Academic_University\Datastructure\GIT\Class_Proj\Avl_Bineary\Avl_Bineary\Avl_Bineary.cpp(987,19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+E:\Academic_University\Datastructure\GIT\Class_Proj\Avl_Bineary\Avl_Bineary\Avl_Bineary.cpp(979): message : while compiling class template member function 'void AVL<int>::Generate_Random_Integer_Tree(BT_Node<int> *,int)'
+E:\Academic_University\Datastructure\GIT\Class_Proj\Avl_Bineary\Avl_Bineary\Avl_Bineary.cpp(1448): message : see reference to function template instantiation 'void AVL<int>::Generate_Random_Integer_Tree(BT_Node<int> *,int)' being compiled
+E:\Academic_University\Datastructure\GIT\Class_Proj\Avl_Bineary\Avl_Bineary\Avl_Bineary.cpp(1424): message : see reference to class template instantiation 'AVL<int>' being compiled
+E:\Academic_University\Datastructure\GIT\Class_Proj\Avl_Bineary\Avl_Bineary\Avl_Bineary.cpp(568,19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+E:\Academic_University\Datastructure\GIT\Class_Proj\Avl_Bineary\Avl_Bineary\Avl_Bineary.cpp(560): message : while compiling class template member function 'void BS_Tree<int>::Generate_Random_Integer_Tree(BT_Node<int> *,int)'
+E:\Academic_University\Datastructure\GIT\Class_Proj\Avl_Bineary\Avl_Bineary\Avl_Bineary.cpp(1237): message : see reference to function template instantiation 'void BS_Tree<int>::Generate_Random_Integer_Tree(BT_Node<int> *,int)' being compiled
+E:\Academic_University\Datastructure\GIT\Class_Proj\Avl_Bineary\Avl_Bineary\Avl_Bineary.cpp(1213): message : see reference to class template instantiation 'BS_Tree<int>' being compiled
+E:\Academic_University\Datastructure\GIT\Class_Proj\Avl_Bineary\Avl_Bineary\Avl_Bineary.cpp(483): warning C4715: 'BS_Tree<int>::Find_Max': not all control paths return a value
+E:\Academic_University\Datastructure\GIT\Class_Proj\Avl_Bineary\Avl_Bineary\Avl_Bineary.cpp(453): warning C4715: 'BS_Tree<int>::Find_Min': not all control paths return a value
+E:\Academic_University\Datastructure\GIT\Class_Proj\Avl_Bineary\Avl_Bineary\Avl_Bineary.cpp(423): warning C4715: 'BS_Tree<int>::Leaf_Count': not all control paths return a value
+E:\Academic_University\Datastructure\GIT\Class_Proj\Avl_Bineary\Avl_Bineary\Avl_Bineary.cpp(435): warning C4715: 'BS_Tree<int>::Find_Min': not all control paths return a value
+E:\Academic_University\Datastructure\GIT\Class_Proj\Avl_Bineary\Avl_Bineary\Avl_Bineary.cpp(465): warning C4715: 'BS_Tree<int>::Find_Max': not all control paths return a value
+E:\Academic_University\Datastructure\GIT\Class_Proj\Avl_Bineary\Avl_Bineary\Avl_Bineary.cpp(705): warning C4715: 'BS_Tree<int>::Do_Size_ALL': not all control paths return a value
+E:\Academic_University\Datastructure\GIT\Class_Proj\Avl_Bineary\Avl_Bineary\Avl_Bineary.cpp(693): warning C4715: 'BS_Tree<int>::Do_Size_Data': not all control paths return a value
+E:\Academic_University\Datastructure\GIT\Class_Proj\Avl_Bineary\Avl_Bineary\Avl_Bineary.cpp(812): warning C4715: 'BS_Tree<int>::Do_Depth': not all control paths return a value
+E:\Academic_University\Datastructure\GIT\Class_Proj\Avl_Bineary\Avl_Bineary\Avl_Bineary.cpp(632): warning C4715: 'BS_Tree<int>::Do_Search': not all control paths return a value
+E:\Academic_University\Datastructure\GIT\Class_Proj\Avl_Bineary\Avl_Bineary\Avl_Bineary.cpp(743): warning C4715: 'BS_Tree<int>::Do_Height_Max': not all control paths return a value
+  Avl_Bineary.vcxproj -> E:\Academic_University\Datastructure\GIT\Class_Proj\Avl_Bineary\x64\Debug\Avl_Bineary.exe

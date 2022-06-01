@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Comment CommentText="Exception Class For Errors">
+    <Position X="9.244" Y="0.5" Height="0.568" Width="1.192" />
+  </Comment>
+  <Comment CommentText="Generic Iterator class For BST &amp;AVL">
+    <Position X="6.75" Y="0.522" Height="0.568" Width="1.192" />
+  </Comment>
+  <Comment CommentText="Helper Class for Hierarchial Vertical Print">
+    <Position X="4.226" Y="0.5" Height="0.568" Width="1.192" />
+  </Comment>
+  <Comment CommentText="a Node class for making BST &amp; AVL">
+    <Position X="11.847" Y="0.5" Height="0.568" Width="1.192" />
+  </Comment>
+  <Comment CommentText="AVL class Inherits from BS_Tree class">
+    <Position X="18.25" Y="0.5" Height="0.568" Width="1.192" />
+  </Comment>
+  <Comment CommentText="BST Base class for BST,AVL,B+,RB trees&#xD;&#xA;">
+    <Position X="14.869" Y="0.5" Height="0.484" Width="1.7" />
+  </Comment>
+  <Class Name="AVL&lt;T&gt;">
+    <Position X="17.75" Y="1.25" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>CAIBAAAAAAAECAgAAAAABAACAABIAAgJSAAAAAAAAAE=</HashCode>
+      <FileName>Avl_Bineary.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BS_Tree&lt;T&gt;">
+    <Position X="14.5" Y="1.25" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>BAIAACAIBBxogCAAEAACRQAAABOIAABgACAAgAAkGEk=</HashCode>
+      <FileName>Avl_Bineary.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BT_Node&lt;T&gt;">
+    <Position X="11.5" Y="1.25" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAABAAQQAAAAABAAAAAAAxAAIAAAA=</HashCode>
+      <FileName>Avl_Bineary.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Exception">
+    <Position X="9" Y="1.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAACAAAQAQAAAAAAAAEAAABAAAAAAAI=</HashCode>
+      <FileName>Avl_Bineary.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GPrint">
+    <Position X="4" Y="1.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAQAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAg=</HashCode>
+      <FileName>Avl_Bineary.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Iterator&lt;T&gt;">
+    <Position X="6.25" Y="1.25" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAABCAAAAEADQgAQAGAAQARAABAAABAAAAgAAAAAAA=</HashCode>
+      <FileName>Avl_Bineary.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

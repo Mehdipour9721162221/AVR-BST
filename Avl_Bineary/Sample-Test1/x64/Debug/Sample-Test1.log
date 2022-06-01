@@ -1,0 +1,11 @@
+﻿  pch.cpp
+  test.cpp
+E:\Academic_University\Datastructure\GIT\Class_Proj\Avl_Bineary\Sample-Test1\test.cpp(233): warning C4715: 'BS_Tree<int>::Leaf_Count': not all control paths return a value
+E:\Academic_University\Datastructure\GIT\Class_Proj\Avl_Bineary\Sample-Test1\test.cpp(293): warning C4715: 'BS_Tree<int>::Find_Max': not all control paths return a value
+E:\Academic_University\Datastructure\GIT\Class_Proj\Avl_Bineary\Sample-Test1\test.cpp(441): warning C4715: 'BS_Tree<int>::Do_Search': not all control paths return a value
+E:\Academic_University\Datastructure\GIT\Class_Proj\Avl_Bineary\Sample-Test1\test.cpp(552): warning C4715: 'BS_Tree<int>::Do_Height_Max': not all control paths return a value
+E:\Academic_University\Datastructure\GIT\Class_Proj\Avl_Bineary\Sample-Test1\test.cpp(514): warning C4715: 'BS_Tree<int>::Do_Size_ALL': not all control paths return a value
+E:\Academic_University\Datastructure\GIT\Class_Proj\Avl_Bineary\Sample-Test1\test.cpp(502): warning C4715: 'BS_Tree<int>::Do_Size_Data': not all control paths return a value
+E:\Academic_University\Datastructure\GIT\Class_Proj\Avl_Bineary\Sample-Test1\test.cpp(621): warning C4715: 'BS_Tree<int>::Do_Depth': not all control paths return a value
+E:\Academic_University\Datastructure\GIT\Class_Proj\Avl_Bineary\Sample-Test1\test.cpp(245): warning C4715: 'BS_Tree<int>::Find_Min': not all control paths return a value
+  Sample-Test1.vcxproj -> E:\Academic_University\Datastructure\GIT\Class_Proj\Avl_Bineary\x64\Debug\Sample-Test1.exe
